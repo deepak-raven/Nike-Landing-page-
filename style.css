@@ -303,7 +303,7 @@ body{
 }
 
 
-@media screen and (max-width: 991px){
+@media screen and (max-width: 767px){
     :root{
         --w-column: 50px;
     }
